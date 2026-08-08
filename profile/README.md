@@ -6,5 +6,5 @@
  </ul>
 </ul>
 </div>
-<p>Ez az org azért jött létre, hogy kitérjen a One magyarország nevű ISP CSOMÓ hibájára. Ha valami hibát látsz, vagy jobbá szeretnéd tenni az oldalt, kérlek jelezd nyugodtan pull req-ben.</p>
+<p>Ez az org azért jött létre, hogy kitérjen a One Magyarország nevű ISP CSOMÓ hibájára. Ha valami hibát látsz, vagy jobbá szeretnéd tenni az oldalt, kérlek jelezd nyugodtan pull req-ben.</p>
 <a href="https://gyulolomaonet.github.io">oldal</a>
